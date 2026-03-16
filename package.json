@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/next-layout-components",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Layout primitives for Next.js and React apps - Page wrapper and Card component",
   "type": "module",
   "main": "./dist/index.cjs",
